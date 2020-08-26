@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Data collision project
+Applied Data Science Capstone
